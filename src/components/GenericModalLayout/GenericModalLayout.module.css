@@ -1,0 +1,22 @@
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.modal-body {
+    flex: 1 0 auto;
+}
+
+.modal-footer{
+    flex-shrink: 0;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
